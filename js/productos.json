@@ -2,13 +2,13 @@
     {
         "id": "notebook",
         "titulo": "Notebook",
-        "imagen": "/img/notebook.png",
+        "imagen": "./img/notebook.png",
         "precio": 1000
     },
     {
         "id": "celular",
         "titulo": "Celular",
-        "imagen": "../img/celular.jpg",
+        "imagen": "./img/celular.jpg",
         "precio": 1000
     },
     {
