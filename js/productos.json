@@ -2,7 +2,7 @@
     {
         "id": "notebook",
         "titulo": "Notebook",
-        "imagen": "./img/notebook.png",
+        "imagen": "/img/notebook.png",
         "precio": 1000
     },
     {
