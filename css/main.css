@@ -15,12 +15,23 @@
     font-family: 'Rubik', sans-serif;
 }
 
-.custom-confirm-button{
-    background-color: #ff0000; /* Cambia el color de fondo a rojo (puedes ajustar el color según tus preferencias) */
+.custom-confirm-button {
+    background-color: #ff0000;
+    /* Cambia el color de fondo a rojo (puedes ajustar el color según tus preferencias) */
     color: #e77613
-
 }
-h1, h2, h3, h4, h5, h6, p, a, input, textarea, ul {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+input,
+textarea,
+ul {
     margin: 0;
     padding: 0;
 }
@@ -90,7 +101,7 @@ aside {
     bottom: 100%;
     right: 0;
     background-color: transparent;
-   
+
 }
 
 .boton-menu.active ::after {
@@ -100,11 +111,11 @@ aside {
     height: 2rem;
     top: 100%;
     right: 0;
-   
+
 }
 
-.boton-menu > i.bi-hand-index-thumb-fill,
-.boton-menu > i.bi-hand-index-thumb {
+.boton-menu>i.bi-hand-index-thumb-fill,
+.boton-menu>i.bi-hand-index-thumb {
     transform: rotateZ(90deg);
 }
 
@@ -130,7 +141,7 @@ aside {
 }
 
 main {
-    background-color:#ffffff;
+    background-color: #ffffff;
     padding: 3rem;
 }
 
@@ -353,7 +364,8 @@ main {
         color: var(--clr-gray);
     }
 
-    .open-menu, .close-menu {
+    .open-menu,
+    .close-menu {
         background-color: transparent;
         color: var(--clr-gray);
         border: 0;
@@ -383,7 +395,7 @@ main {
         flex-wrap: wrap;
         row-gap: 1rem;
     }
-    
+
 
 }
 
